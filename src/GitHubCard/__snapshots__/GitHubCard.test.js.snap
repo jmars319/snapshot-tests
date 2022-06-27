@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      roundedCircle={true}
+      src="JAM.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        <h1>
+          Jason Marshall
+        </h1>
+      </div>
+      <p
+        className="card-text"
+      >
+        <h3>
+          I am still learning to program but I am certainly getting better at it every day.
+        </h3>
+      </p>
+    </div>
+  </div>
+</div>
+`;
